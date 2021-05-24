@@ -1,0 +1,3 @@
+AppName=checkout-service
+HTTPPort=8080
+HTTPServerTimeOut=10
